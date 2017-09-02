@@ -1,0 +1,5 @@
+start_word=i
+nb_word=50000
+proba_tab=0.005
+type=book
+language=english
